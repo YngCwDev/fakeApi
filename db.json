@@ -334,52 +334,7 @@
         ]
       }
     },
-    {
-      "id": "8h",
-      "name": "Suplemento para Saúde Cerebral e Memória",
-      "description": "Bacopa monnieri para funções cerebrais e memória - 60 cápsulas",
-      "price": 1000,
-      "brand": "Nature",
-      "categories": ["Memória"],
-      "images": [
-        "/products/nature.png",
-        "/products/temple.png",
-        "/products/moringa.png",
-        "/products/nature.png"
-      ],
-      "keywords": [
-        "memória",
-        "saúde cerebral",
-        "bacopa monnieri",
-        "funções cerebrais",
-        "clareza mental",
-        "cognição",
-        "estresse",
-        "ansiedade",
-        "neuroproteção",
-        "concentração",
-        "produtividade",
-        "longevidade cognitiva"
-      ],
-      "details": {
-        "denomination": "Bacopa monnieri - 60 cápsulas",
-        "overview": "Suplemento à base de Bacopa monnieri para melhorar funções cerebrais, memória e foco mental.",
-        "ingredients": "Extrato de Bacopa monnieri, celulose microcristalina, cápsula vegetal.",
-        "instruction": "Tomar 1 cápsula ao dia, preferencialmente pela manhã.",
-        "warnings": "Não recomendado para gestantes e lactantes sem orientação médica.",
-        "additionalMention": "A Bacopa monnieri é usada há séculos para melhorar a cognição e reduzir o estresse.",
-        "storageConditions": "Conservar em local seco e fresco, longe da luz solar direta.",
-        "disclaimer": "Resultados podem variar conforme a dieta e estilo de vida.",
-        "weight": "25 Gramas",
-        "nutritionalFacts": [{ "Bacopa Monnieri": "300 mg" }],
-        "benefits": [
-          "Melhora a memória e capacidade de aprendizado.",
-          "Aumenta o foco mental e clareza de pensamento.",
-          "Reduz o estresse e ansiedade.",
-          "Protege o cérebro contra danos oxidativos.",
-          "Promove longevidade cognitiva e saúde mental."
-        ]
-      }
+    
     }
   ]
 }
