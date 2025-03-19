@@ -6,7 +6,10 @@
       "description": "Saw palmetto para saúde prostática e equilíbrio urinário - 60 cápsulas",
       "price": 700,
       "brand": "Nature",
-      "categories": ["Saúde Masculina", "Próstata"],
+      "categories": [
+        "Saúde Masculina",
+        "Próstata"
+      ],
       "images": [
         "/products/nature.png",
         "/products/temple.png",
@@ -34,7 +37,11 @@
         "storageConditions": "Manter em local seco e fresco, ao abrigo da luz solar direta. Manter fora do alcance de crianças.",
         "disclaimer": "Este produto não substitui uma alimentação equilibrada e um estilo de vida saudável.",
         "weight": "30 Gramas",
-        "nutritionalFacts": [{ "Saw Palmetto (extrato seco)": "320 mg" }],
+        "nutritionalFacts": [
+          {
+            "Saw Palmetto (extrato seco)": "320 mg"
+          }
+        ],
         "benefits": [
           "Reduz o tamanho da próstata em casos de hiperplasia benigna.",
           "Melhora o fluxo urinário e reduz desconfortos associados.",
@@ -48,7 +55,10 @@
       "description": "Vitaminas essenciais para saúde feminina e energia diária - 90 cápsulas",
       "price": 500,
       "brand": "Nature",
-      "categories": ["Saúde Feminina", "Fertilidade"],
+      "categories": [
+        "Saúde Feminina",
+        "Fertilidade"
+      ],
       "images": [
         "/products/temple.png",
         "/products/nature.png",
@@ -81,9 +91,15 @@
         "disclaimer": "Não substitui uma dieta variada e saudável.",
         "weight": "40 Gramas",
         "nutritionalFacts": [
-          { "Ferro": "18 mg" },
-          { "Zinco": "15 mg" },
-          { "Vitamina D": "5 mcg" }
+          {
+            "Ferro": "18 mg"
+          },
+          {
+            "Zinco": "15 mg"
+          },
+          {
+            "Vitamina D": "5 mcg"
+          }
         ],
         "benefits": [
           "Apoia o equilíbrio hormonal e regulação menstrual.",
@@ -99,7 +115,9 @@
       "description": "Whey protein concentrado para hipertrofia muscular - 500g",
       "price": 1350,
       "brand": "Nature",
-      "categories": ["Ganho de Massa Muscular"],
+      "categories": [
+        "Ganho de Massa Muscular"
+      ],
       "images": [
         "/products/moringa.png",
         "/products/nature.png",
@@ -131,9 +149,15 @@
         "disclaimer": "Suplemento indicado para atletas e praticantes de atividades físicas.",
         "weight": "500 Gramas",
         "nutritionalFacts": [
-          { "Proteína": "25g" },
-          { "Carboidratos": "2g" },
-          { "Gorduras": "1g" }
+          {
+            "Proteína": "25g"
+          },
+          {
+            "Carboidratos": "2g"
+          },
+          {
+            "Gorduras": "1g"
+          }
         ],
         "benefits": [
           "Promove ganho de massa muscular magra.",
@@ -149,7 +173,9 @@
       "description": "Fórmula termogênica para acelerar o metabolismo - 60 cápsulas",
       "price": 850,
       "brand": "Nature",
-      "categories": ["Emagrecimento"],
+      "categories": [
+        "Emagrecimento"
+      ],
       "images": [
         "/products/nature.png",
         "/products/temple.png",
@@ -174,24 +200,4 @@
         "denomination": "Termogênico natural - 60 cápsulas",
         "overview": "Combinação de cafeína, chá verde e guaraná para acelerar o metabolismo e promover a queima de gordura.",
         "ingredients": "Cafeína anidra, extrato de chá verde, guaraná em pó, cápsula vegetal.",
-        "instruction": "Tomar 1 cápsula pela manhã e outra à tarde, preferencialmente antes do treino.",
-        "warnings": "Evitar o consumo à noite. Pessoas sensíveis à cafeína devem reduzir a dose.",
-        "additionalMention": "Auxilia na redução de gordura corporal e aumento da energia.",
-        "storageConditions": "Conservar em local fresco e seco, longe da luz solar direta.",
-        "disclaimer": "Este produto não substitui uma dieta equilibrada e exercícios físicos regulares.",
-        "weight": "25 Gramas",
-        "nutritionalFacts": [
-          { "Cafeína": "200 mg" },
-          { "Chá Verde": "150 mg" }
-        ],
-        "benefits": [
-          "Acelera o metabolismo e promove queima de gordura.",
-          "Aumenta os níveis de energia durante o dia.",
-          "Ajuda no controle de peso e definição corporal.",
-          "Reduz o cansaço e melhora o foco mental."
-        ]
-      }
-    }
-    
-  ]
-}
+        "instruction":
