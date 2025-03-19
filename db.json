@@ -287,54 +287,6 @@
           "Promove bem-estar geral e energia diária."
         ]
       }
-    },
-    {
-      "id": "7g",
-      "name": "Suplemento para Energia e Vitalidade Masculina",
-      "description": "Maca peruana para energia, disposição e saúde masculina - 60 cápsulas",
-      "price": 1100,
-      "brand": "Nature",
-      "categories": ["Saúde Masculina"],
-      "images": [
-        "/products/moringa.png",
-        "/products/nature.png",
-        "/products/temple.png",
-        "/products/moringa.png"
-      ],
-      "keywords": [
-        "energia",
-        "vitalidade masculina",
-        "maca peruana",
-        "libido",
-        "saúde masculina",
-        "disposição",
-        "performance sexual",
-        "bem-estar masculino",
-        "força",
-        "resistência",
-        "potência"
-      ],
-      "details": {
-        "denomination": "Maca peruana pura - 60 cápsulas",
-        "overview": "Suplemento natural à base de maca peruana para aumentar a energia, disposição e saúde masculina.",
-        "ingredients": "Pó de maca peruana, cápsula vegetal.",
-        "instruction": "Tomar 2 cápsulas ao dia, preferencialmente pela manhã.",
-        "warnings": "Pessoas com doenças crônicas devem consultar um médico antes de iniciar o uso.",
-        "additionalMention": "A maca peruana é conhecida por seus benefícios para a saúde masculina e libido.",
-        "storageConditions": "Conservar em local seco e fresco, longe da luz solar direta.",
-        "disclaimer": "Este produto não substitui uma alimentação equilibrada e estilo de vida saudável.",
-        "weight": "30 Gramas",
-        "nutritionalFacts": [{ "Maca Peruana": "500 mg" }],
-        "benefits": [
-          "Aumenta a energia e disposição física.",
-          "Melhora a performance sexual e libido.",
-          "Promove resistência e vitalidade masculina.",
-          "Reduz o cansaço mental e físico.",
-          "Equilibra os níveis hormonais masculinos."
-        ]
-      }
-    },
-    
     }
   ]
 }
