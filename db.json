@@ -2,130 +2,382 @@
   "Products": [
     {
       "id": "1a",
-      "name": "Nature Prostate Support",
-      "description": "Saw palmetto enhanced - 60 cápsulas",
+      "name": "Suplemento para Saúde da Próstata",
+      "description": "Saw palmetto para saúde prostática e equilíbrio urinário - 60 cápsulas",
       "price": 700,
       "brand": "Nature",
-      "image": "/products/nature.png",
+      "categories": ["Saúde Masculina", "Próstata"],
+      "images": [
+        "/products/nature.png",
+        "/products/temple.png",
+        "/products/nature.png",
+        "/products/nature.png"
+      ],
+      "keywords": [
+        "próstata",
+        "saúde masculina",
+        "saw palmetto",
+        "hiperplasia benigna",
+        "equilíbrio urinário",
+        "fluxo urinário",
+        "conforto urinário",
+        "homens",
+        "problemas prostáticos"
+      ],
       "details": {
         "denomination": "Saw palmetto enhanced - 60 cápsulas",
+        "overview": "Suplemento à base de Saw Palmetto para saúde prostática e função urinária equilibrada.",
         "ingredients": "Extrato de Saw Palmetto (Serenoa repens), gelatina, estearato de magnésio, dióxido de silício.",
         "instruction": "Recomenda-se tomar 2 cápsulas ao dia com um copo de água, preferencialmente junto às refeições.",
         "warnings": "Este produto não deve ser consumido por gestantes, lactantes e crianças. Consulte um profissional de saúde antes de iniciar o uso.",
-        "additionalMention": "O Saw Palmetto é um extrato vegetal amplamente estudado por seus benefícios para a saúde da próstata e bem-estar urinário.",
+        "additionalMention": "O Saw Palmetto é amplamente estudado por seus benefícios para a saúde da próstata e bem-estar urinário.",
         "storageConditions": "Manter em local seco e fresco, ao abrigo da luz solar direta. Manter fora do alcance de crianças.",
         "disclaimer": "Este produto não substitui uma alimentação equilibrada e um estilo de vida saudável.",
         "weight": "30 Gramas",
-        "nutritionalFacts": [
-          { "Saw Palmetto (extrato seco)": "320 mg" }
+        "nutritionalFacts": [{ "Saw Palmetto (extrato seco)": "320 mg" }],
+        "benefits": [
+          "Reduz o tamanho da próstata em casos de hiperplasia benigna.",
+          "Melhora o fluxo urinário e reduz desconfortos associados.",
+          "Promove conforto urinário e saúde prostática."
         ]
       }
     },
     {
       "id": "2b",
-      "name": "Melatonin Sleep Aid",
-      "description": "Regula o ciclo do sono - 90 cápsulas",
+      "name": "Complexo Multivitamínico Feminino",
+      "description": "Vitaminas essenciais para saúde feminina e energia diária - 90 cápsulas",
       "price": 500,
       "brand": "Nature",
-      "image": "/products/moringa.png",
+      "categories": ["Saúde Feminina", "Fertilidade"],
+      "images": [
+        "/products/temple.png",
+        "/products/nature.png",
+        "/products/nature.png",
+        "/products/temple.png"
+      ],
+      "keywords": [
+        "saúde feminina",
+        "vitaminas",
+        "multivitamínico",
+        "fertilidade",
+        "energia",
+        "equilíbrio hormonal",
+        "regulação menstrual",
+        "ferro",
+        "zinco",
+        "ácido fólico",
+        "mulheres",
+        "gravidez",
+        "bem-estar feminino"
+      ],
       "details": {
-        "denomination": "Regula o ciclo do sono - 90 cápsulas",
-        "ingredients": "Melatonina, vitamina B6, celulose microcristalina, sais de magnésio de ácidos graxos.",
-        "instruction": "Tomar 1 cápsula antes de dormir, preferencialmente 30 minutos antes do horário desejado de sono.",
-        "warnings": "Não utilizar em caso de insônia crônica sem orientação médica. Evitar o uso prolongado sem supervisão profissional.",
-        "additionalMention": "A melatonina é um hormônio natural que auxilia na regulação do ciclo circadiano, promovendo um sono mais reparador.",
-        "storageConditions": "Armazenar em local fresco e seco, longe da umidade e luz direta.",
-        "disclaimer": "Este produto é um suplemento alimentar e não deve substituir tratamentos médicos para distúrbios do sono.",
-        "weight": "27 Gramas",
+        "denomination": "Multivitamínico completo para mulheres - 90 cápsulas",
+        "overview": "Completo mix de vitaminas e minerais especialmente formulado para apoiar a saúde feminina e fertilidade.",
+        "ingredients": "Vitaminas A, C, D, E, complexo B, ferro, zinco, cápsula de gelatina.",
+        "instruction": "Tomar 1 cápsula ao dia, preferencialmente com o café da manhã.",
+        "warnings": "Não exceder a dose diária recomendada. Gestantes devem consultar um médico.",
+        "additionalMention": "Ideal para mulheres que buscam equilíbrio hormonal e suporte à fertilidade.",
+        "storageConditions": "Armazenar em local seco e arejado.",
+        "disclaimer": "Não substitui uma dieta variada e saudável.",
+        "weight": "40 Gramas",
         "nutritionalFacts": [
-          { "Melatonina": "3 mg" },
-          { "Vitamina B6": "1,3 mg (100% VRN*)" }
+          { "Ferro": "18 mg" },
+          { "Zinco": "15 mg" },
+          { "Vitamina D": "5 mcg" }
+        ],
+        "benefits": [
+          "Apoia o equilíbrio hormonal e regulação menstrual.",
+          "Fornece energia diária e vitalidade para mulheres.",
+          "Suporta a saúde óssea e imunológica.",
+          "Ajuda na preparação do corpo para a concepção."
         ]
       }
     },
     {
       "id": "3c",
-      "name": "Omega 3 Premium",
-      "description": "Óleo de peixe concentrado - 60 cápsulas",
+      "name": "Suplemento para Ganho de Massa Muscular",
+      "description": "Whey protein concentrado para hipertrofia muscular - 500g",
       "price": 1350,
       "brand": "Nature",
-      "image": "/products/temple.png",
+      "categories": ["Ganho de Massa Muscular"],
+      "images": [
+        "/products/moringa.png",
+        "/products/nature.png",
+        "/products/temple.png",
+        "/products/nature.png"
+      ],
+      "keywords": [
+        "ganho de massa muscular",
+        "whey protein",
+        "hipertrofia",
+        "recuperação muscular",
+        "proteína",
+        "musculação",
+        "força",
+        "performance física",
+        "exercícios",
+        "atletas",
+        "fitness",
+        "suplementos esportivos"
+      ],
       "details": {
-        "denomination": "Óleo de peixe purificado - 60 cápsulas",
-        "ingredients": "Óleo de peixe, gelatina, glicerina, água purificada.",
-        "instruction": "Tomar 2 cápsulas ao dia, preferencialmente junto às refeições.",
-        "warnings": "Este produto contém derivados de peixe e pode causar reações alérgicas em pessoas sensíveis a frutos do mar.",
-        "additionalMention": "O ômega 3 é essencial para a saúde cardiovascular, auxiliando na redução dos níveis de triglicerídeos e melhorando a função cerebral.",
+        "denomination": "Whey Protein Concentrado - 500g",
+        "overview": "Proteína de alta qualidade para construção muscular e recuperação pós-treino.",
+        "ingredients": "Proteína concentrada do soro do leite, cacau em pó, aromatizante natural, edulcorante stevia.",
+        "instruction": "Misturar 1 colher de sopa (30g) em 250ml de água ou leite. Consumir após o treino ou conforme orientação médica.",
+        "warnings": "Pessoas com intolerância à lactose devem evitar o consumo. Consulte um nutricionista.",
+        "additionalMention": "Promove ganho de massa magra e melhora o desempenho físico.",
         "storageConditions": "Conservar em local seco e fresco. Após aberto, consumir dentro de 60 dias.",
-        "disclaimer": "Suplemento alimentar sem fins terapêuticos. Consulte um profissional de saúde antes de iniciar o uso.",
-        "weight": "35 Gramas",
+        "disclaimer": "Suplemento indicado para atletas e praticantes de atividades físicas.",
+        "weight": "500 Gramas",
         "nutritionalFacts": [
-          { "EPA": "360 mg" },
-          { "DHA": "240 mg" }
+          { "Proteína": "25g" },
+          { "Carboidratos": "2g" },
+          { "Gorduras": "1g" }
+        ],
+        "benefits": [
+          "Promove ganho de massa muscular magra.",
+          "Acelera a recuperação muscular após exercícios intensos.",
+          "Fornece aminoácidos essenciais para construção muscular.",
+          "Melhora o desempenho físico e resistência."
         ]
       }
     },
     {
       "id": "4d",
-      "name": "Vitamin C Complex",
-      "description": "Suplemento vitamínico antioxidante - 120 cápsulas",
+      "name": "Suplemento Termogênico para Emagrecimento",
+      "description": "Fórmula termogênica para acelerar o metabolismo - 60 cápsulas",
       "price": 850,
       "brand": "Nature",
-      "image": "/products/nature.png",
+      "categories": ["Emagrecimento"],
+      "images": [
+        "/products/nature.png",
+        "/products/temple.png",
+        "/products/moringa.png",
+        "/products/nature.png"
+      ],
+      "keywords": [
+        "emagrecimento",
+        "termogênico",
+        "queima de gordura",
+        "cafeína",
+        "chá verde",
+        "guaraná",
+        "aceleração metabólica",
+        "energia",
+        "perda de peso",
+        "controle de peso",
+        "metabolismo",
+        "fitness"
+      ],
       "details": {
-        "denomination": "Suplemento vitamínico antioxidante - 120 cápsulas",
-        "ingredients": "Ácido ascórbico (Vitamina C), bioflavonoides cítricos, celulose microcristalina, estearato de magnésio.",
-        "instruction": "Tomar 1 cápsula ao dia, preferencialmente pela manhã, com um copo de água.",
-        "warnings": "O uso excessivo pode causar desconforto gastrointestinal. Consulte um profissional de saúde antes de consumir doses elevadas.",
-        "additionalMention": "A vitamina C auxilia na absorção de ferro e na manutenção do sistema imunológico.",
-        "storageConditions": "Manter fechado em local seco e arejado.",
-        "disclaimer": "Não exceder a dose diária recomendada.",
-        "weight": "40 Gramas",
+        "denomination": "Termogênico natural - 60 cápsulas",
+        "overview": "Combinação de cafeína, chá verde e guaraná para acelerar o metabolismo e promover a queima de gordura.",
+        "ingredients": "Cafeína anidra, extrato de chá verde, guaraná em pó, cápsula vegetal.",
+        "instruction": "Tomar 1 cápsula pela manhã e outra à tarde, preferencialmente antes do treino.",
+        "warnings": "Evitar o consumo à noite. Pessoas sensíveis à cafeína devem reduzir a dose.",
+        "additionalMention": "Auxilia na redução de gordura corporal e aumento da energia.",
+        "storageConditions": "Conservar em local fresco e seco, longe da luz solar direta.",
+        "disclaimer": "Este produto não substitui uma dieta equilibrada e exercícios físicos regulares.",
+        "weight": "25 Gramas",
         "nutritionalFacts": [
-          { "Vitamina C": "500 mg" }
+          { "Cafeína": "200 mg" },
+          { "Chá Verde": "150 mg" }
+        ],
+        "benefits": [
+          "Acelera o metabolismo e promove queima de gordura.",
+          "Aumenta os níveis de energia durante o dia.",
+          "Ajuda no controle de peso e definição corporal.",
+          "Reduz o cansaço e melhora o foco mental."
         ]
       }
     },
     {
       "id": "5e",
-      "name": "Energy Booster",
-      "description": "Suplemento energético natural - 90 cápsulas",
+      "name": "Suplemento para Memória e Foco Mental",
+      "description": "Ômega 3 e fosfatidilserina para memória e concentração - 60 cápsulas",
       "price": 1200,
       "brand": "Nature",
-      "image": "/products/moringa.png",
+      "categories": ["Memória"],
+      "images": [
+        "/products/temple.png",
+        "/products/moringa.png",
+        "/products/nature.png",
+        "/products/temple.png"
+      ],
+      "keywords": [
+        "memória",
+        "foco mental",
+        "ômega 3",
+        "fosfatidilserina",
+        "funções cognitivas",
+        "estudantes",
+        "idosos",
+        "concentração",
+        "cérebro",
+        "neuroproteção",
+        "clareza mental",
+        "produtividade"
+      ],
       "details": {
-        "denomination": "Suplemento energético natural - 90 cápsulas",
-        "ingredients": "Cafeína anidra, guaraná em pó, taurina, cápsula vegetal.",
-        "instruction": "Tomar 2 cápsulas ao dia, preferencialmente antes da atividade física.",
-        "warnings": "Evitar o consumo à noite. Pessoas sensíveis à cafeína devem reduzir a dose.",
-        "additionalMention": "Ideal para quem busca mais energia e foco para atividades diárias e exercícios.",
-        "storageConditions": "Conservar em local fresco e seco, longe da umidade.",
-        "disclaimer": "Este produto não substitui uma alimentação equilibrada e hábitos saudáveis.",
-        "weight": "45 Gramas",
-        "nutritionalFacts": [
-          { "Cafeína": "100 mg" }
+        "denomination": "Ômega 3 com fosfatidilserina - 60 cápsulas",
+        "overview": "Combinação de ômega 3 e fosfatidilserina para melhorar a memória, foco mental e funções cognitivas.",
+        "ingredients": "Óleo de peixe, fosfatidilserina, gelatina, glicerina.",
+        "instruction": "Tomar 2 cápsulas ao dia, preferencialmente junto às refeições.",
+        "warnings": "Pessoas com alergia a peixes ou frutos do mar devem evitar o consumo.",
+        "additionalMention": "Ideal para estudantes, profissionais e idosos que buscam melhorar a memória.",
+        "storageConditions": "Conservar em local seco e fresco. Após aberto, consumir dentro de 90 dias.",
+        "disclaimer": "Resultados podem variar conforme a dieta e estilo de vida.",
+        "weight": "30 Gramas",
+        "nutritionalFacts": [{ "EPA": "300 mg" }, { "DHA": "200 mg" }],
+        "benefits": [
+          "Melhora a memória e capacidade de aprendizado.",
+          "Aumenta o foco mental e clareza de pensamento.",
+          "Protege o cérebro contra o envelhecimento precoce.",
+          "Reduz o estresse e melhora a produtividade."
         ]
       }
     },
     {
       "id": "6f",
-      "name": "Zinc Plus",
-      "description": "Suplemento de Zinco com Vitamina D3 - 60 cápsulas",
+      "name": "Suplemento para Saúde da Mulher",
+      "description": "Vitaminas e minerais para saúde feminina - 90 cápsulas",
       "price": 950,
       "brand": "Nature",
-      "image": "/products/temple.png",
+      "categories": ["Saúde Feminina", "Fertilidade"],
+      "images": [
+        "/products/nature.png",
+        "/products/moringa.png",
+        "/products/temple.png",
+        "/products/nature.png"
+      ],
+      "keywords": [
+        "saúde feminina",
+        "fertilidade",
+        "vitaminas femininas",
+        "equilíbrio hormonal",
+        "regulação menstrual",
+        "ácido fólico",
+        "ferro",
+        "zinco",
+        "bem-estar feminino",
+        "gravidez",
+        "suporte à concepção"
+      ],
       "details": {
-        "denomination": "Suplemento de Zinco com Vitamina D3 - 60 cápsulas",
-        "ingredients": "Bisglicinato de zinco, colecalciferol (Vitamina D3), amido modificado.",
-        "instruction": "Tomar 1 cápsula ao dia, preferencialmente junto às refeições.",
-        "warnings": "O consumo excessivo pode interferir na absorção de outros minerais essenciais.",
-        "additionalMention": "O zinco é um mineral essencial para a imunidade e saúde celular, enquanto a vitamina D auxilia na absorção de cálcio.",
-        "storageConditions": "Manter em local seco e arejado.",
-        "disclaimer": "Suplemento indicado para pessoas com deficiência nutricional.",
-        "weight": "28 Gramas",
+        "denomination": "Suplemento completo para mulheres - 90 cápsulas",
+        "overview": "Formulação especializada para apoiar a saúde feminina, equilíbrio hormonal e fertilidade.",
+        "ingredients": "Vitaminas B6, B12, ácido fólico, ferro, zinco, cápsula de gelatina.",
+        "instruction": "Tomar 1 cápsula ao dia, preferencialmente com o café da manhã.",
+        "warnings": "Gestantes devem consultar um médico antes de iniciar o uso.",
+        "additionalMention": "Auxilia na regulação menstrual e suporte à fertilidade.",
+        "storageConditions": "Armazenar em local seco e arejado.",
+        "disclaimer": "Este produto não substitui uma dieta equilibrada e estilo de vida saudável.",
+        "weight": "40 Gramas",
         "nutritionalFacts": [
-          { "Zinco": "15 mg (100% VRN*)" },
-          { "Vitamina D3": "10 mcg (200% VRN*)" }
+          { "Ferro": "18 mg" },
+          { "Ácido Fólico": "400 mcg" },
+          { "Zinco": "15 mg" }
+        ],
+        "benefits": [
+          "Apoia o equilíbrio hormonal e regulação menstrual.",
+          "Fornece nutrientes essenciais para a saúde da mulher.",
+          "Auxilia na preparação do corpo para a concepção.",
+          "Reduz sintomas associados à síndrome dos ovários policísticos (SOP).",
+          "Promove bem-estar geral e energia diária."
+        ]
+      }
+    },
+    {
+      "id": "7g",
+      "name": "Suplemento para Energia e Vitalidade Masculina",
+      "description": "Maca peruana para energia, disposição e saúde masculina - 60 cápsulas",
+      "price": 1100,
+      "brand": "Nature",
+      "categories": ["Saúde Masculina"],
+      "images": [
+        "/products/moringa.png",
+        "/products/nature.png",
+        "/products/temple.png",
+        "/products/moringa.png"
+      ],
+      "keywords": [
+        "energia",
+        "vitalidade masculina",
+        "maca peruana",
+        "libido",
+        "saúde masculina",
+        "disposição",
+        "performance sexual",
+        "bem-estar masculino",
+        "força",
+        "resistência",
+        "potência"
+      ],
+      "details": {
+        "denomination": "Maca peruana pura - 60 cápsulas",
+        "overview": "Suplemento natural à base de maca peruana para aumentar a energia, disposição e saúde masculina.",
+        "ingredients": "Pó de maca peruana, cápsula vegetal.",
+        "instruction": "Tomar 2 cápsulas ao dia, preferencialmente pela manhã.",
+        "warnings": "Pessoas com doenças crônicas devem consultar um médico antes de iniciar o uso.",
+        "additionalMention": "A maca peruana é conhecida por seus benefícios para a saúde masculina e libido.",
+        "storageConditions": "Conservar em local seco e fresco, longe da luz solar direta.",
+        "disclaimer": "Este produto não substitui uma alimentação equilibrada e estilo de vida saudável.",
+        "weight": "30 Gramas",
+        "nutritionalFacts": [{ "Maca Peruana": "500 mg" }],
+        "benefits": [
+          "Aumenta a energia e disposição física.",
+          "Melhora a performance sexual e libido.",
+          "Promove resistência e vitalidade masculina.",
+          "Reduz o cansaço mental e físico.",
+          "Equilibra os níveis hormonais masculinos."
+        ]
+      }
+    },
+    {
+      "id": "8h",
+      "name": "Suplemento para Saúde Cerebral e Memória",
+      "description": "Bacopa monnieri para funções cerebrais e memória - 60 cápsulas",
+      "price": 1000,
+      "brand": "Nature",
+      "categories": ["Memória"],
+      "images": [
+        "/products/nature.png",
+        "/products/temple.png",
+        "/products/moringa.png",
+        "/products/nature.png"
+      ],
+      "keywords": [
+        "memória",
+        "saúde cerebral",
+        "bacopa monnieri",
+        "funções cerebrais",
+        "clareza mental",
+        "cognição",
+        "estresse",
+        "ansiedade",
+        "neuroproteção",
+        "concentração",
+        "produtividade",
+        "longevidade cognitiva"
+      ],
+      "details": {
+        "denomination": "Bacopa monnieri - 60 cápsulas",
+        "overview": "Suplemento à base de Bacopa monnieri para melhorar funções cerebrais, memória e foco mental.",
+        "ingredients": "Extrato de Bacopa monnieri, celulose microcristalina, cápsula vegetal.",
+        "instruction": "Tomar 1 cápsula ao dia, preferencialmente pela manhã.",
+        "warnings": "Não recomendado para gestantes e lactantes sem orientação médica.",
+        "additionalMention": "A Bacopa monnieri é usada há séculos para melhorar a cognição e reduzir o estresse.",
+        "storageConditions": "Conservar em local seco e fresco, longe da luz solar direta.",
+        "disclaimer": "Resultados podem variar conforme a dieta e estilo de vida.",
+        "weight": "25 Gramas",
+        "nutritionalFacts": [{ "Bacopa Monnieri": "300 mg" }],
+        "benefits": [
+          "Melhora a memória e capacidade de aprendizado.",
+          "Aumenta o foco mental e clareza de pensamento.",
+          "Reduz o estresse e ansiedade.",
+          "Protege o cérebro contra danos oxidativos.",
+          "Promove longevidade cognitiva e saúde mental."
         ]
       }
     }
